@@ -171,6 +171,7 @@ const correctInputs = {
     confirmarSenha: false, 
 }
 
+// envio do formulário e limpa campos 
 submitButton.addEventListener('click', (e) => {
     e.preventDefault()
 
